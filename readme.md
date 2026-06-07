@@ -12,6 +12,9 @@ The printer is built from [this kit](https://www.aliexpress.com/item/10050086267
 * * Accelerometer: **ADXL345**
 * Hotend: [**Sailfish High Flow**](https://www.fysetc.com/products/fysetc-v6-hotend-sailfish-high-flow-speed-v6-j-head-kit-extrude-head-for-cr-10-cr10s-ender-3-ender3-pro-voron-2-4-3d-printer-hotend) (Same mount as Dragon)
 * Display:[**Fysetc Voron V0 1.3" OLED**](https://www.fysetc.com/products/fysetc-voron-v0-1-3-inch-oled-display-screen-smart-display-for-raspberry-pi-3-b-voron-v0-3d-printer-accessories)
+* Toolhead: [**Dragon Burner V8**](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner/STLs/v0.2)
+* Probe: [**ZeroClick**](https://github.com/zruncho3d/ZeroClick)
+
 
 ## Update Klipper  
 See [this guide](docs/update-klipper.md)
